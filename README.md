@@ -1,16 +1,45 @@
-# sample_base
+# Flutter サンプルベース
 
-sample_base
+Flutter サンプルを作成するためのベース
+
+## Table of Contents
+
+* [Technologies](#technologies)
+* [Getting started](#getting-started)
+* [References](#references)
+* [License](#license)
+
+## Technologies
+
+* [Flutter][flutter]
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Flutter アプリケーション作成
 
-A few resources to get you started if this is your first Flutter project:
+- Android Studio で [File] - [New Flutter Project]
+- Android Studio で [VCS] - [Share Project on GitHub] でリポジトリを作成
+- Initial commit でコミット
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### ページ作成
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 既存の MyApp を削除して、新規に作成
+- Add sample page でコミット
+
+### README 作成
+
+- README.md を編集
+- Modify README でコミット
+
+## References
+
+* [Flutter documentation](https://flutter.dev/docs)
+
+## License
+
+This is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.  
+Copyright &copy; 2022 [Fuji Programming Laboratory](https://fuji-labo.com/)
+
+
+
+[flutter]: https://flutter.dev
