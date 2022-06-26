@@ -1,6 +1,6 @@
-# Flutter サンプルベース
+# pomodoro
 
-Flutter サンプルを作成するためのベース
+pomodoro
 
 ## Table of Contents
 
